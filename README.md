@@ -9,3 +9,8 @@ Cricket is one of our **emotions** in our country. It is the **best recreation**
 2. Virat Kohli
 3. Rohit Sharma
 
+### Other Good Teams to watch
+* Pakistan
+* Australia
+* New zealand
+
