@@ -18,7 +18,7 @@ Cricket is one of our **emotions** in our country. It is the **best recreation**
 [AboutMe_Link](AboutMe.md)
 
 ***
-### ** Tourist Places **
+### **Tourist Places**
 
 The below table indicates the country's which are good to visit and few of the worlds most beautiful places. One must make a look over them atleast once in their lifetime.
 
