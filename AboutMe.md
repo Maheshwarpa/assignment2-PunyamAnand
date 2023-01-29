@@ -10,7 +10,7 @@ I'm from tirupati, INDIA. I'm a kind of person who is always intrested to learn 
 
 The below table indicates the country's which are good to visit and few of the worlds most beautiful places. One must make a look over them atleast once in their lifetime.
 
-|# Name of the Country |# Reason for Recommendation |# No of days would like to spend |
+| Name of the Country | Reason for Recommendation | No of days would like to spend |
 | :---: | :---: | :---: |
 | INDIA | To view its culture and Heritage | LifeTime |
 | UAE | To view its futuristic projects | 30 Days |
